@@ -1,3 +1,4 @@
+rg_name = "vmss-rg-16284"
 rg_name = "vmss-rg-412"
 
 vnet_address_space = ["10.0.0.0/16"]
