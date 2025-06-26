@@ -1,4 +1,4 @@
-rg_name = "vmss-rg-9778"
+rg_name = "vmss-rg-412"
 
 vnet_address_space = ["10.0.0.0/16"]
 vm_subnet_prefix   = ["10.0.1.0/24"]

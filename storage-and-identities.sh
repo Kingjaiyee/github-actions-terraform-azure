@@ -10,7 +10,7 @@ STORAGE_ACCOUNT_NAME="tfstate$RANDOM"
 CONTAINER_NAME="tfstate"
 
 # GitHub repo details
-GITHUB_ORG="iheartnathan"
+GITHUB_ORG="Kingjaiyee"
 GITHUB_REPO="github-actions-terraform-azure"
 
 # Identity & infra naming
